@@ -10,4 +10,4 @@ Understanding Neural Networking and basics of Keras.
 |Keras Models:               | https://keras.io/models/about-keras-models/#about-keras-models    |
 |Keras Optimizers:           | https://keras.io/optimizers/                                      |
 |Keras Metrics:              | https://keras.io/metrics/                                         |
-
+|Keras - Functions           | https://keras.io/api/models/sequential/                           |
