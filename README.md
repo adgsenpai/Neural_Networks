@@ -38,5 +38,13 @@ $$ a_{2} = f(z_{2}) = {1 \over 1+e^{-z_{2}}}$$
 
 $$ E = {1 \over 2}{(T-a_{2})^2} $$
 
+#### Doing one partial differential equation
+
+`using Equation 5` $$ E = {1 \over 2}{(T-a_{2})^2} $$
+
+1. for $ {\partial{E} \over \partial{a_2}} $
+
+$ {\partial{E} \over \partial{a_2}} = 2{1 \over 2}{(T-a_{2})}{(-1)} $
+$ = -{(T-a_{2})}$
 
  
