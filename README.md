@@ -44,11 +44,11 @@ $$ E = {1 \over 2}{(T-a_{2})^2} $$
 
 
 
-1. for $ {\partial{E} \over \partial{a_2}} $
+1. for $ {\partial{E} \over \partial{w_2}} $
 
-$ {\partial{E} \over \partial{a_2}} = {\partial{E} \over \partial{a_2}}{\partial{a_{2}} \over \partial{z_{2}}} {\partial{z_{2}} \over \partial{w_{2}}} $
+$ {\partial{E} \over \partial{w_2}} = {\partial{E} \over \partial{a_2}}{\partial{a_{2}} \over \partial{z_{2}}} {\partial{z_{2}} \over \partial{w_{2}}} $
 
-$ {\partial{E} \over \partial{a_2}} = 2{1 \over 2}{(T-a_{2})}{(-1)} $
+$ {\partial{E} \over \partial{w_2}} = 2{1 \over 2}{(T-a_{2})}{(-1)} $
 $ = -{(T-a_{2})}$
 
  
